@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactosApp</string>
+    <string name="button_Ingresar">Ingresar</string>
+    <string name="editTextName"></string>
+    <string name="button_modify">Modificar</string>
+    <string name="button_eliminar">Elminar</string>
+    <string name="button_consultarid">Consultar por ID</string>
+    <string name="button_consultar">Consultar</string>
+    <string name="txt_name">Ingrese el nombre</string>
+</resources>
